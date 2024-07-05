@@ -12,7 +12,7 @@ I'm using Flutter, Dart, and  Responsive & Adaptive UI Design to make mobile app
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://www.figma.com/files/team/1169709514228437698/user/1169709503832069327?fuid=1169709503832069327" alt="Figma"/>
+  <img src="https://img.uxcel.com/tags/figma-1698087967030-2x.jpg" alt="https://www.figma.com/files/team/1169709514228437698/user/1169709503832069327?fuid=1169709503832069327"/>
   <img src="" alt=""/>
   <img src="" alt=""/>
 </div>
