@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi i'm measer 👋
 
-<!--
-**measser/measser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm using Flutter, Dart, and  Responsive & Adaptive UI Design to make mobile applicatipn and webside. 🕺🏽
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔭 I’m working on
+
+- Projects for freelance clients.
+
+
+### 🌱 I’m learning
+
+<div display="flex">
+  <img src="" alt="Hyperledger"/>
+  <img src="" alt="Ethereum"/>
+  <img src="" alt="Adobe Illustrator"/>
+</div>
+
+### 🤔 I’m looking for help with
+
+- Integrating AI models to mobile apps applications
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/measser-rabie/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+ 
+</div>
+
+### ⚡ Fun fact
+
+I'm definitely not a cat person.
