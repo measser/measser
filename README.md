@@ -12,9 +12,9 @@ I'm using Flutter, Dart, and  Responsive & Adaptive UI Design to make mobile app
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="" alt="Hyperledger"/>
-  <img src="" alt="Ethereum"/>
-  <img src="" alt="Adobe Illustrator"/>
+  <img src="https://www.figma.com/files/team/1169709514228437698/user/1169709503832069327?fuid=1169709503832069327" alt="Figma"/>
+  <img src="" alt=""/>
+  <img src="" alt=""/>
 </div>
 
 ### 🤔 I’m looking for help with
