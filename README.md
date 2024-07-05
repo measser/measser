@@ -12,7 +12,7 @@ I'm using Flutter, Dart, and  Responsive & Adaptive UI Design to make mobile app
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" alt="https://www.figma.com/files/team/1169709514228437698/user/1169709503832069327?fuid=1169709503832069327"/>
+  <img src="Figma" alt="https://www.figma.com/files/team/1169709514228437698/user/1169709503832069327?fuid=1169709503832069327"/>
 </div>
 
 ### 🤔 I’m looking for help with
@@ -28,6 +28,3 @@ I'm using Flutter, Dart, and  Responsive & Adaptive UI Design to make mobile app
  
 </div>
 
-### ⚡ Fun fact
-
-I'm definitely not a cat person.
